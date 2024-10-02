@@ -1,0 +1,21 @@
+/* eslint-disable no-undef */
+module.exports = {
+  plugins: ['@trivago/prettier-plugin-sort-imports'],
+  arrowParens: 'always',
+  bracketSpacing: true,
+  htmlWhitespaceSensitivity: 'css',
+  insertPragma: false,
+  bracketSameLine: false,
+  jsxSingleQuote: false,
+  printWidth: 120,
+  proseWrap: 'preserve',
+  quoteProps: 'as-needed',
+  requirePragma: false,
+  semi: false,
+  singleQuote: true,
+  tabWidth: 2,
+  trailingComma: 'es5',
+  useTabs: false,
+  endOfLine: 'lf',
+  importOrder: ['^react$', '<THIRD_PARTY_MODULES>', '^@watt/.+$', '^~/.+$', '^[./]'],
+}

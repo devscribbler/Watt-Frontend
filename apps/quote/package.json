@@ -1,0 +1,61 @@
+{
+  "name": "@watt/quote",
+  "version": "1.0.0",
+  "description": "Customer Quotation tool for watt.co.uk",
+  "private": true,
+  "scripts": {
+    "dev": "yarn run -T next dev",
+    "build": "yarn run -T next build && yarn run -T next export",
+    "lhci": "lhci autorun --verbose",
+    "cypress:run": "cypress run",
+    "cypress:open": "cypress open",
+    "start": "yarn run -T next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@date-io/date-fns": "2.16.0",
+    "@mui/x-date-pickers": "^5.0.17",
+    "@watt/api-interface": "^1.0.0",
+    "@watt/components": "^1.0.0",
+    "@watt/constants": "^1.0.0",
+    "@watt/theme": "^1.0.0",
+    "@watt/utils": "^1.0.0",
+    "clsx": "^1.1.1",
+    "date-fns": "^2.30.0",
+    "jwt-decode": "^3.1.2",
+    "nanoid": "^4.0.2",
+    "next-seo": "^5.4.0",
+    "notistack": "^3.0.1",
+    "redaxios": "^0.5.1"
+  },
+  "peerDependencies": {
+    "@fontsource/open-sans": "^4.4.5",
+    "@nivo/bar": "^0.79.0",
+    "@nivo/core": "^0.79.0",
+    "@reduxjs/toolkit": "^1.5.1",
+    "@mui/material": "^5.11.7",
+    "@mui/styles": "^5.11.7",
+    "@mui/icons-material": "^5.11.0",
+    "axios": "^0.21.1",
+    "next": "^12.1.5",
+    "pdfjs-dist": "^2.9.359",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^7.7.1",
+    "react-pdf": "^5.3.2",
+    "react-redux": "^7.2.4",
+    "react-use": "^17.2.4"
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx}": [
+      "prettier --write"
+    ]
+  },
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^15.1.4",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "cypress": "^12.14.0"
+  }
+}

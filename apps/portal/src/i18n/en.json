@@ -1,0 +1,227 @@
+{
+  "common": {
+    "buttons": {
+      "save": "Save",
+      "submit": "Submit",
+      "seeQuote": "SEE QUOTE",
+      "getAQuote": "GET A QUOTE",
+      "sendCode": "Send code"
+    },
+    "labels": {
+      "email": "Email",
+      "myAccount": "MY ACCOUNT"
+    }
+  },
+  "quoteStatus": {
+    "PROCESSING": "Waiting for approval",
+    "OBJECTED": "Rejected by provider",
+    "ACCEPTED": "Approved",
+    "LIVE": "Ongoing",
+    "RENEWAL": "Due for renewal in 150 days"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "contactCard": {
+      "title": "Contact",
+      "subtitle": "Watt Team",
+      "email": "Email",
+      "emailAddress": "hello@watt.co.uk",
+      "phone": "Tel",
+      "phoneNumber": "0161 8338661"
+    },
+    "autoRenewCard": {
+      "title": "Auto-renew",
+      "subtitle": "We do all the work, guarantee the lowest price possible and you will receive your new contract.",
+      "footer": "Read more about auto-renew."
+    },
+    "energyCard": {
+      "title": "Electricity usage",
+      "subtitle": "MPAN ending with "
+    },
+    "gasCard": {
+      "title": "Gas usage",
+      "subtitle": "MPR ending with "
+    },
+    "unavailableUtilitiesCards": {
+      "subtitle": "Coming soon",
+      "water": "Water",
+      "telecom": "Telecom",
+      "internet": "Internet"
+    }
+  },
+  "errors": {
+    "incorrectPassword": "Incorrect password",
+    "sameEmail": "New email cannot be the old email",
+    "differentPassword": "New password should be different from old password.",
+    "passwordsDoNotMatch": "Password and retyped password do not match",
+    "requiredField": "This field is required.",
+    "requiredPasswordMin8Length": "Required information (minimum 8 characters)",
+    "requiredInformation": "Required information",
+    "invalidPostcode": "It looks like the postcode is not valid",
+    "invalidEmailAddress": "Incorrect format (correct example: name@company.com)",
+    "validChangeEmailSecurityCode": "Incorrect code (correct example:123456)",
+    "validChangeEmailIntend": "Incorrect format (correct example: name@company.com)",
+    "invalidPhoneNumber": "It looks like the phone number you introduced is not valid.",
+    "noAddressesFound": "No addresses were found.",
+    "phoneNumberMaxLength": "The phone number you have introduced is not valid.",
+    "passwordLength": "Minimum 8 characters",
+    "existentAccount": "Changes could not be saved because the account already exists."
+  },
+  "login": {
+    "title": "Login",
+    "form": {
+      "emailAddress": "Email address",
+      "password": "Password",
+      "button": "Log in",
+      "forgotPassword": "Forgot password",
+      "noAccount": "Don't have an account? Sign Up"
+    },
+    "notifications": {
+      "error": "An error has occurred."
+    }
+  },
+  "register": {
+    "title": "Register",
+    "notifications": {
+      "generic_error": "An error has occurred."
+    },
+    "form": {
+      "button": "Register",
+      "postcode": {
+        "label": "Postcode",
+        "placeholder": "i.e. PO16"
+      },
+      "address": {
+        "label": "Site address",
+        "placeholder": "Select the address"
+      },
+      "businessName": {
+        "label": "Business name",
+        "placeholder": "Select the business"
+      },
+      "smsCode": {
+        "label": "Code received via phone number",
+        "placeholder": "Add code from SMS"
+      },
+      "phoneNumber": {
+        "label": "Phone number",
+        "placeholder": "i.e. (+44) 123 5678"
+      },
+      "emailAddress": {
+        "label": "Email address",
+        "placeholder": "Email"
+      },
+      "password": {
+        "label": "Password",
+        "placeholder": "Password"
+      },
+      "confirmPassword": {
+        "label": "Confirm password",
+        "placeholder": "Retype password"
+      }
+    }
+  },
+  "accountInfo": {
+    "title": "Account information",
+    "changeEmail": {
+      "changeEmailTitle": "Change Email",
+      "title": "Account email change",
+      "subtitle": "To change your email add the new email and  request a security code on your new email.",
+      "form": {
+        "securityCode": "Security code received via new email",
+        "placeholderSecurityCode": "Add code from email",
+        "emailAddress": "Email address"
+      },
+      "buttonLabel": {
+        "sendSecurityCode": "SEND SECURITY CODE FOR CONFIRMATION"
+      }
+    },
+    "changePassword": {
+      "title": "Change password",
+      "subtitle": "Account password change",
+      "form": {
+        "currentPassword": "Current password",
+        "newPassword": "New password",
+        "confirmNewPassword": "Confirm new password"
+      }
+    },
+    "notifications": {
+      "emailSucessSend": "Security code send successfully",
+      "emailSuccessChanged": "Email changed successfully",
+      "success": "Changes successfully saved",
+      "error": "Changes could not be saved because reason"
+    }
+  },
+  "companyInformation": {
+    "title": "Company information",
+    "notifications": {
+      "success": "Changes successfully saved",
+      "error": "Changes could not be saved"
+    },
+    "companyForm": {
+      "title": "Company",
+      "type": {
+        "label": "Business type"
+      },
+      "businessName": {
+        "label": "Business name"
+      },
+      "registrationNumber": {
+        "label": "Business registration number"
+      },
+      "sitePostcode": {
+        "label": "Postcode for the site address",
+        "tooltip": "To change the site address, please contact Watt.co.uk"
+      },
+      "siteAddress": {
+        "label": "Site address"
+      }
+    },
+    "contactForm": {
+      "title": "Contact",
+      "businessPhoneNumber": {
+        "label": "Business phone number"
+      },
+      "contactName": {
+        "label": "Contact name"
+      },
+      "position": {
+        "label": "Position within the company"
+      },
+      "postcode": {
+        "label": "Postcode for the business address",
+        "tooltip": "Changing this address would change the registered office address and the billing address."
+      },
+      "address": {
+        "label": "Business address"
+      }
+    }
+  },
+  "forgotPassword": {
+    "title": "Forgot password",
+    "label": "Email address",
+    "buttonText": "Reset password",
+    "resetPasswordFailed": "Sorry, an error occurred. Please check your email address."
+  },
+  "myContracts": {
+    "title": "My contracts",
+    "months": "months",
+    "noContracts": "Client does not have available contracts.",
+    "activeContracts": "My active contracts",
+    "downloadContract": "Download Contract",
+    "expiredQuote": "Quotation is expired",
+    "quoteExpiresIn": "Quotation expires in",
+    "renewalQuote": "Due to renewal in",
+    "comingSoon": "Coming soon",
+    "ongoing": "Ongoing",
+    "expired": "Expired"
+  },
+  "drawerList": {
+    "dashboard": "Dashboard",
+    "myContracts": "My contracts",
+    "companyDetails": "Company details",
+    "paymentsDetails": "Payment details",
+    "changeEmail": "Change Email",
+    "changePassword": "Change Password"
+  }
+}

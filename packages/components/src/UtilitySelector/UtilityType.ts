@@ -1,0 +1,7 @@
+export enum UtilityType {
+  ELECTRICITY = 'ELECTRICITY',
+  GAS = 'GAS',
+  WATER = 'WATER',
+  TELEPHONE = 'TELEPHONE',
+  INTERNET = 'INTERNET',
+}

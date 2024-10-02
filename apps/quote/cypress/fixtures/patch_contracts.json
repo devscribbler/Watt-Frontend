@@ -1,0 +1,27 @@
+{
+  "start_date": "2023-04-22T00:00:00",
+  "end_date": "2023-12-31T00:00:00",
+  "id": "8777324e-913b-4522-b47f-dc031a5a0953",
+  "quote": {
+    "id": "b83a4726-ba5d-444b-af69-8b44fe326f5e",
+    "utility_type": 1,
+    "provider_id": "81563bc5-56ca-4682-9ece-45e6467a9437",
+    "annual_price": 16640.0,
+    "day_unit_rate": 82.47,
+    "evening_unit_rate": null,
+    "night_unit_rate": 0.0,
+    "weekend_unit_rate": 0.0,
+    "off_peak_unit_rate": null,
+    "standing_charge": 40.0,
+    "capacity_charge_kva": "0",
+    "price_guaranteed": 1.0,
+    "contract_type": "Default",
+    "duration": 1,
+    "end_date": "2023-12-31T00:00:00",
+    "is_comparison_provider": false
+  },
+  "is_signed": true,
+  "signature": "yinxuanlian",
+  "utility_type": 1,
+  "status": 1
+}

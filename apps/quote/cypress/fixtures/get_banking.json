@@ -1,0 +1,5 @@
+{
+  "description": "Method Not Allowed",
+  "status": 405,
+  "message": "Method GET not allowed for URL /v1/api/public/banking"
+}

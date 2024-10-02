@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "18196100-669a-40a9-afda-ff6d17854ff0",
+    "name": "SEFE Energy",
+    "logo_file_name": "sefe.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "6c2fafdc-2331-47de-886e-44135ff1fabe",
+    "name": "GB Energy Supply Limited",
+    "logo_file_name": "alti.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "a968b39d-4385-4cd0-8117-5092175576de",
+    "name": "Limejump Energy Limited",
+    "logo_file_name": "ange.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "3622e4c2-ae10-41b7-bf2e-45449e450aea",
+    "name": "Avro Energy Limited",
+    "logo_file_name": "avro.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "d8a253c8-0e9b-4bdb-a389-8d9676d6d150",
+    "name": "Axis Telecom Limited",
+    "logo_file_name": "axis.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "eae644f1-abea-4e44-a0fa-562eea58633d",
+    "name": "Axpo UK Limited",
+    "logo_file_name": "axpo.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "7aecb22f-125d-4293-b7ea-ab6a9c1f5fc3",
+    "name": "Azacca Energy Limited",
+    "logo_file_name": "azac.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "d5adeaa0-6360-4f15-a2ee-e232ce8d6381",
+    "name": "Barbican Power Limited",
+    "logo_file_name": "barb.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "966477db-be9f-4b5c-bc3e-4f290cd12ea6",
+    "name": "Bayswater Energy Limited",
+    "logo_file_name": "bays.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "bd08baf4-570a-49bf-bb26-c7ce78541f94",
+    "name": "GEN4U Limited",
+    "logo_file_name": "bcfc.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "a0765ee4-1abd-4037-a89a-6571531d6103",
+    "name": "Mongoose Energy Supply Limited",
+    "logo_file_name": "beth.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "acf8c45b-54c2-46b2-abd1-a437c697b729",
+    "name": "Bluebell Energy Supply Ltd",
+    "logo_file_name": "blbl.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "989a8952-8bf5-4401-a589-ff699ef9416a",
+    "name": "Bor Energy Limited",
+    "logo_file_name": "bore.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "f845e304-5be8-4157-a3fe-28dbbbb4aa53",
+    "name": "Breeze Energy Supply Limited",
+    "logo_file_name": "brez.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "c048a058-e144-46a9-b006-ecaed92b7b26",
+    "name": "arto.energy Limited",
+    "logo_file_name": "brze.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "a3f2eb69-55a0-401b-91fc-62fc946e883c",
+    "name": "Bullion Energy Limited",
+    "logo_file_name": "buln.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "e7423588-d3f2-432a-b480-7ca9e3346c5b",
+    "name": "Extra Energy Supply Limited",
+    "logo_file_name": "call.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "35ef1f22-d470-48dd-a55c-e2fab26e6e86",
+    "name": "Cornflower Energy Supply Ltd",
+    "logo_file_name": "cfwr.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "81ff74c8-e058-465b-9ff5-e42af5656ff2",
+    "name": "Flow Energy Ltd",
+    "logo_file_name": "circ.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "7bdae758-7155-438c-82eb-e33f01ed1f70",
+    "name": "NEAS Energy Limited",
+    "logo_file_name": "cndl.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "8829e88a-1fe3-444c-b863-9a42d66ba58a",
+    "name": "Comet Energy Limited",
+    "logo_file_name": "comt.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "faaa4018-9a1b-4ab7-a7b1-9d76e24676f2",
+    "name": "I Supply Energy Limited",
+    "logo_file_name": "coop.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "0e87cce8-e1e5-4de1-ae62-4daa95e2f4d0",
+    "name": "Corona Energy",
+    "logo_file_name": "core.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "8aa5b4c1-7089-449f-89c8-ec1f7f8b7650",
+    "name": "Corona Energy Retail 4 Limited (THRE)",
+    "logo_file_name": "thre.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "42b4e849-c250-4cc5-bf15-8544eafd1d8b",
+    "name": "Coulomb Energy Supply Limited",
+    "logo_file_name": "coul.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "cab5d81d-1052-4de4-a791-8aaf04e04ed1",
+    "name": "Covent Energy Limited",
+    "logo_file_name": "cove.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "35173e35-83f8-4eb4-b39d-d84e5748ba65",
+    "name": "Affect Energy",
+    "logo_file_name": "cppr.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "e70de867-c61c-495a-b490-c8937cfb04e2",
+    "name": "Business Power and Gas Limited",
+    "logo_file_name": "cycl.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "24bb7382-1191-4c6c-ac87-c0ec4e6d9d36",
+    "name": "Daisy Energy Supply Limited",
+    "logo_file_name": "desl.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "1bd7794e-f153-4f55-b7ab-2aab2307b551",
+    "name": "Daffodil Energy Supply Ltd",
+    "logo_file_name": "dfdl.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "d3d02d23-0b05-4f99-b9d1-0481f4406956",
+    "name": "Donnington Energy Limited",
+    "logo_file_name": "dnrg.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "f8307cc6-8c64-43c1-9a4e-325c1ae956aa",
+    "name": "Dual Energy",
+    "logo_file_name": "dual.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "b320348b-4c3b-4e5f-b41b-b8eb57186ccf",
+    "name": "BES",
+    "logo_file_name": "ebes.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "82408465-c2ff-454c-ae69-7547d95697e7",
+    "name": "Reuben Power Supply Limited",
+    "logo_file_name": "econ.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "e23cba7c-28f7-4f6a-a598-8a0a392d3801",
+    "name": "Renewable Energy Company Ltd",
+    "logo_file_name": "ecot.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "90ff5fc3-3ea3-4f6e-9327-6c83f76781bb",
+    "name": "Edgware Energy Limited",
+    "logo_file_name": "edge.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "10faf2a8-0af2-483b-8151-1cc5e3d3dfa9",
+    "name": "Electricity Direct (UK)",
+    "logo_file_name": "edir.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "854682dc-380a-4dc4-bde9-103965895a75",
+    "name": "E.ON Energy Ltd (EELC)",
+    "logo_file_name": "eelc.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "ba33a986-59cf-482f-a41a-7d4a5058c251",
+    "name": "E.ON Energy Ltd (EENG)",
+    "logo_file_name": "eeng.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "71fea954-c756-43c7-80dd-b6492799a93f",
+    "name": "Econmy Energy Supply LTD",
+    "logo_file_name": "eesl.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "9c28052f-ca01-446f-bcb5-53a39c2012b1",
+    "name": "Economy Energy Trading Limited",
+    "logo_file_name": "eetl.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "c5aa99f3-2eb0-4c2f-90ee-280fcb70efde",
+    "name": "Effortless Energy Ltd",
+    "logo_file_name": "efls.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "9ec560e1-cd6d-43fa-811c-56b986ce87ef",
+    "name": "Electraphase Ltd",
+    "logo_file_name": "elec.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "a61a390f-c943-4f66-a0e3-2978eb59af11",
+    "name": "E.ON Energy Ltd (EMEB)",
+    "logo_file_name": "emeb.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "500107de-7de0-4a1a-89b0-b383dd72e7a4",
+    "name": "EPG Energy Ltd",
+    "logo_file_name": "endc.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "e9191cb0-8f60-44df-8d81-57c626ba1587",
+    "name": "Eneco Energy Trade B.V.",
+    "logo_file_name": "enec.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "d0c19c83-a04d-4021-bb17-a7de587513e2",
+    "name": "Eversmart Energy Ltd",
+    "logo_file_name": "engq.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "1aa1d867-9081-4459-9860-9df44465d407",
+    "name": "Trafford Plaza",
+    "logo_file_name": "ephh.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "ddaa37ff-3a8b-42ac-a579-41d25dd71d38",
+    "name": "Energy Supply Solutions Ltd",
+    "logo_file_name": "essl.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "c727dceb-8b34-41a4-bd18-5c42b7b81161",
+    "name": "Robin Hood Energy Limited",
+    "logo_file_name": "euro.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "551c0a68-1542-4b39-8955-b1b91119947a",
+    "name": "Faringdon Energy Limited",
+    "logo_file_name": "farr.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "c4da8ab5-3308-48aa-a8cb-fc7dfc1b0dfe",
+    "name": "Farmoor Energy Limited",
+    "logo_file_name": "fnrg.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "1df4a2ac-6cef-4787-a871-f5147283650e",
+    "name": "F & S Energy",
+    "logo_file_name": "fsen.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "89b976ff-9713-427e-9ebb-7f15fc29c84d",
+    "name": "Foxglove Energy Supply Limited",
+    "logo_file_name": "fxgl.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "aeaecde9-fd2c-4792-858e-6a3dc8cd0563",
+    "name": "Galena Energy Limited",
+    "logo_file_name": "gale.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "98d1b9d1-9c84-4467-8e0b-1f3351696f28",
+    "name": "LOCO2 Energy Supply Limited",
+    "logo_file_name": "gany.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "7878cd97-b48b-4355-a791-81e482434c2d",
+    "name": "SO Energy Trading Limited",
+    "logo_file_name": "gesl.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "db1e93c9-7f37-451d-9e6b-9896598a8031",
+    "name": "Green Energy UK Plc",
+    "logo_file_name": "gnrg.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "53599862-dc71-48c8-a14d-606b1c4cce1b",
+    "name": "Golding Energy Limited",
+    "logo_file_name": "gong.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "e1b92e7b-f97b-4cd5-8ccc-99a74e3aa844",
+    "name": "Haven Power Limited",
+    "logo_file_name": "have.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "c444fc0c-1023-4791-9ed2-f6a51e0dc388",
+    "name": "Haven Power Limited (HPOW)",
+    "logo_file_name": "hpow.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "1c8ccade-ef33-4060-b52c-d9a898b8420c",
+    "name": "Holborn Energy Limited",
+    "logo_file_name": "holb.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "43ea5f49-d34e-4063-a354-edcd026503e8",
+    "name": "ENGIE Power Limited",
+    "logo_file_name": "home.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "e9ca6c00-9703-4b88-b7f6-1f62f150a070",
+    "name": "Hudson Corp",
+    "logo_file_name": "huds.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "aa708478-6884-40d4-b176-c9540ce82c05",
+    "name": "Hudson Energy Supply UK Ltd (JERE)",
+    "logo_file_name": "jere.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "635bd229-9942-455a-8ef5-17b43d4040bb",
+    "name": "Npower Direct LTD (NHH)",
+    "logo_file_name": "inde.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "b0c939b9-0991-4918-994c-d6d82030497c",
+    "name": "Npower Ltd (NATP)",
+    "logo_file_name": "natp.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "cc5abe3a-7d13-40e9-9b98-470a08e0db3b",
+    "name": "Npower LTD (MIDE)",
+    "logo_file_name": "mide.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "13d8f66d-ff34-4678-940c-79caac20cc91",
+    "name": "Npower Northern Limited (NEEB)",
+    "logo_file_name": "neeb.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "0a2f950e-1acd-4165-911a-7370c2642cbe",
+    "name": "NPower Yorkshire Supply LTD (YELG)",
+    "logo_file_name": "yelg.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "0be2de84-1508-42d5-84a0-b24fb718ce0d",
+    "name": "Npower Ltd (PSUK)",
+    "logo_file_name": "psuk.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "8b5ce090-a6e5-43ec-802e-5a1b20421d35",
+    "name": "Inverno Limited",
+    "logo_file_name": "inve.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "3ce6715f-f93c-4122-956a-aaa97bbcbe60",
+    "name": "Iresa Limited",
+    "logo_file_name": "ires.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "e2237f68-20f0-475c-bff2-ba868f429eef",
+    "name": "PfP Energy Supplies Ltd",
+    "logo_file_name": "irid.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "6b8dd533-6c95-4430-b15a-7f644cebb8df",
+    "name": "Kensington Power Limited",
+    "logo_file_name": "kens.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "71ab0712-9eed-4ed6-ac55-50b4a9456fa8",
+    "name": "MVV Environment Services Limited",
+    "logo_file_name": "ligh.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "9d28a804-685d-4df6-b17c-11e436259cae",
+    "name": "Lily Energy Supply Ltd",
+    "logo_file_name": "lily.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "9f27fa16-7b0b-4358-8afc-626f341a92f9",
+    "name": "E (Gas and Electricity) Ltd",
+    "logo_file_name": "lorm.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "3968a953-e809-4c9f-b0e3-fb3a46727e31",
+    "name": "GNERGY Limited",
+    "logo_file_name": "lume.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "79707862-9712-4df5-8589-1bf4e9a52fce",
+    "name": "ReGen Energy Ltd",
+    "logo_file_name": "rege.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "a3fff6af-fdc2-4e26-bd81-8fa795d8c1d0",
+    "name": "Lavender Energy Supply Limited",
+    "logo_file_name": "lvdr.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "c18b36e3-d0d4-4af7-bc1c-d2f4962b668f",
+    "name": "MA Energy Ltd (MAEL)",
+    "logo_file_name": "mael.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "a8852541-4ce7-4df0-8c92-0eb944dfa107",
+    "name": "MA Energy Ltd (MAET)",
+    "logo_file_name": "maet.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "b331ad04-e193-4028-90be-1cc94775c1a5",
+    "name": "DONG Energy Power Sales UK Ltd",
+    "logo_file_name": "magn.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "322d0061-9508-45f1-8935-c1bfbea6ded4",
+    "name": "Scottish Hydro Electric Power Distribution Ltd",
+    "logo_file_name": "hyde.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "66cad2fb-bfbe-4d02-aaca-f151f42896b4",
+    "name": "Scottish Power Energy Retail Ltd",
+    "logo_file_name": "manw.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "6625cca1-1d47-44c2-a3ca-696ff95d6645",
+    "name": "Scottish Power Energy Retail",
+    "logo_file_name": "sp.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "9dce16fc-bddf-4305-9e65-31714f3bae05",
+    "name": "Marble Power Limited",
+    "logo_file_name": "marb.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "28011650-7e05-4469-a728-229e6d20ded3",
+    "name": "Marigold Energy Supply Limited",
+    "logo_file_name": "mari.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "e0f8c486-3371-4532-92a5-28f17c04d923",
+    "name": "Mattina Limited",
+    "logo_file_name": "matt.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "38c5b783-2e0f-4916-9557-40637c9d971c",
+    "name": "Mint Energy Supply Limited",
+    "logo_file_name": "mint.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "fe60e333-57e4-4130-a3fc-4607a3b6d7cd",
+    "name": "Brook Green",
+    "logo_file_name": "mtrl.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "f26e1963-d240-46a2-87c8-c7d8114d593a",
+    "name": "Brilliant Energy Supply Limited",
+    "logo_file_name": "nckl.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "69b273f1-678a-47ed-88e4-921ad8ef0cbc",
+    "name": "Newport Energy Limited",
+    "logo_file_name": "newp.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "843cbae2-f337-495b-b08e-8b271eb58bc4",
+    "name": "E.ON Energy Ltd (NORW)",
+    "logo_file_name": "norw.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "c67aca17-9462-47fe-83c5-2dac19e60e98",
+    "name": "Nuclear Decommissioning Authority Ltd",
+    "logo_file_name": "nuce.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "b7273101-dd2c-45f7-a536-868865bc2488",
+    "name": "Addito Supply Limited",
+    "logo_file_name": "ober.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "d05f339f-2065-4b1d-8a8b-99fbfb4a3c76",
+    "name": "Opal Energy Limited",
+    "logo_file_name": "opal.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "135ac8c1-e12f-4b82-805d-89c601d8a4a4",
+    "name": "Bristol Energy",
+    "logo_file_name": "osmi.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "93c4953b-7cb0-4f0f-a61f-84a1d484d228",
+    "name": "Paddington Power Limited",
+    "logo_file_name": "padd.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "12b6916f-184a-4e45-a07f-ecb0b8954562",
+    "name": "Palladium Energy Supply Limited",
+    "logo_file_name": "pall.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "684bad72-894d-4c33-a9fe-253a92ad9320",
+    "name": "Tonik Energy Limited",
+    "logo_file_name": "pilo.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "6a394311-4276-42f7-97e6-7403c1f1f3b6",
+    "name": "Pioneer Energy Limited",
+    "logo_file_name": "pion.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "5105b953-39bb-48f3-acf3-30877cf8997d",
+    "name": "Hartree Partners Supply (UK) Limited",
+    "logo_file_name": "powq.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "6601fd9a-fc44-4ab9-83b5-f9409eb5646a",
+    "name": "DYCE Energy",
+    "logo_file_name": "proz.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "2a29f248-3249-4f14-9880-23e81c4e9342",
+    "name": "Good Energy (PURE)",
+    "logo_file_name": "pure.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "22f162e3-bb85-4332-a5d2-f23636edf0c9",
+    "name": "Good Energy (GOOD)",
+    "logo_file_name": "good.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "fc0be135-3bdd-4a5f-9da6-34a0ad95d3a3",
+    "name": "The Renewable Energy Company Ltd",
+    "logo_file_name": "renc.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "d9d398e5-f533-4f0e-8160-195247e07ada",
+    "name": "Our Power Energy Supply Ltd",
+    "logo_file_name": "rhod.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "572fa916-978d-43bd-8251-2f0d632faf75",
+    "name": "Rose Energy Supply Ltd",
+    "logo_file_name": "rose.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "2e910437-27f2-4e9c-9ea6-79d08d637233",
+    "name": "Santiam Energy Limited",
+    "logo_file_name": "sant.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "34d492ba-2161-48e4-842c-591453978dac",
+    "name": "EDF Energy (SEEB)",
+    "logo_file_name": "seeb.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "1f0f041e-d50b-455b-b079-1b63d6603444",
+    "name": "SINQ Power Limited",
+    "logo_file_name": "sinq.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "b7526964-121e-48cf-8e96-2c64908cc002",
+    "name": "Future Energy Utilities Limited",
+    "logo_file_name": "siro.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "5edbcb71-9454-4450-b72e-1310a57d50e1",
+    "name": "CNG Electricity Limited",
+    "logo_file_name": "slvr.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "3f794679-1373-4a81-8928-423ed4fb5ef9",
+    "name": "Sunflower Energy Supply Ltd",
+    "logo_file_name": "snfr.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "eb5dbeff-61ba-45f7-9960-39de14bccc09",
+    "name": "Spark Energy Supply Ltd",
+    "logo_file_name": "sprk.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "917bc476-1da9-46f4-a86d-c08f50fba7f0",
+    "name": "Statkraft Markets GmbH",
+    "logo_file_name": "stat.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "323d96c2-4989-4c78-8af7-54c64a034883",
+    "name": "SSE Plc (SWAE)",
+    "logo_file_name": "swae.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "cae5205f-43c2-4678-af9b-b11cc7db1348",
+    "name": "Snowdrop Energy Supply Limited",
+    "logo_file_name": "swdp.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "d824ab3d-679e-46b1-acf9-888867533592",
+    "name": "Symbio Energy Ltd",
+    "logo_file_name": "symb.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "e8b148dd-00cc-48c7-84d4-563be2adeecd",
+    "name": "The Team Group of Companies UK Limited",
+    "logo_file_name": "team.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "f790e668-b222-4bd4-ac84-e04e9826a4e4",
+    "name": "Total Gas and Power Ltd",
+    "logo_file_name": "tgpl.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "f9051861-7fac-4089-a4ef-58f815616145",
+    "name": "Thistle Energy Supply Ltd",
+    "logo_file_name": "thle.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "ce7a141e-1d04-4916-abaa-b199c9ae6352",
+    "name": "Bruntwood Energy Services Ltd",
+    "logo_file_name": "tlwd.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "a86b2eb6-19ca-4716-951b-187d3c874099",
+    "name": "Pozitive Energy Limited",
+    "logo_file_name": "tndo.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "60fcf77b-39d9-4506-ac28-dd3a26978eb9",
+    "name": "Switch Business Gas & Power",
+    "logo_file_name": "tram.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "9af1db78-42b9-4e90-9e20-2485ba7edec6",
+    "name": "Power4All Limited",
+    "logo_file_name": "trex.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "a71afb71-8c84-48eb-b34d-390ab16f5e9d",
+    "name": "Tulip Energy Supply Limited",
+    "logo_file_name": "tulp.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "37c2dd3f-1d99-443e-ad6e-8839a3dba0f7",
+    "name": "Sembcorp Energy UK",
+    "logo_file_name": "ukpr.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "9c6bce4c-4d67-4a2c-8391-bc00a6a005e6",
+    "name": "Vavu Power Limited",
+    "logo_file_name": " .png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "0ed2d69f-9e40-478e-ac18-c54b74b4bd6a",
+    "name": "Vattenfall Energy Trading GmbH",
+    "logo_file_name": "vets.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "d1dc2be0-75bb-4fc5-aafb-fb1f4bd2b240",
+    "name": "Co-op Energy Energy",
+    "logo_file_name": "volt.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "da177676-2a3f-4fc2-b2b9-ac12cd8eb6c3",
+    "name": "Opus Corporate",
+    "logo_file_name": "cnrg.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "c797e495-d100-4ea4-bbd6-d8d44c2e58b3",
+    "name": "Opus Energy Renewables Limited",
+    "logo_file_name": "enrg.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "d5cc1e3d-a7aa-4506-b424-a44602ff1417",
+    "name": "Opus Energy Limited",
+    "logo_file_name": "opus.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "ff0059fc-9ce5-47c0-8b0e-987df056de96",
+    "name": "Gazprom",
+    "logo_file_name": "gazprom.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "84223590-c4a9-40a6-b45e-403076c9f68f",
+    "name": "Gazprom Marketing and Trading Retail (GMTX)",
+    "logo_file_name": "gazprom.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "f3201bab-417d-4cfa-a2b0-e3a7a40250cf",
+    "name": "Gazprom Marketing and Trading Retail (GAZPROM)",
+    "logo_file_name": "gazprom.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "2e924f69-7da4-4396-835e-0d3e13fd0d91",
+    "name": "Smartest Energy",
+    "logo_file_name": "smartest.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "e54233f1-89a2-4854-b43e-5f3d2aeda756",
+    "name": "Smartest Energy (SMAE)",
+    "logo_file_name": "smartest.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "024972f4-a1a8-4b96-8ce2-ee6927c69b5e",
+    "name": "Utilita",
+    "logo_file_name": "utilita.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "d34c117a-d95b-423e-91f3-69b859977fac",
+    "name": "Utilita Energy",
+    "logo_file_name": "getw.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "c35a9413-db25-48a2-8ddb-9807b6a22fd9",
+    "name": "Valda",
+    "logo_file_name": "valda.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "2afaa352-1980-4e61-aed4-cd6df51c9310",
+    "name": "Clear Business",
+    "logo_file_name": "clear_business.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "adb4cb56-52b0-4aae-b1fd-29d446b64c75",
+    "name": "British Gas",
+    "logo_file_name": "british_gas.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "f5a9b4a4-a97d-4663-b560-b4ae38b1d215",
+    "name": "British Gas Lite",
+    "logo_file_name": "british_gas_lite.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "f5dde9f5-c979-4dc8-b652-322c26f23dd8",
+    "name": "British Gas Plus",
+    "logo_file_name": "ecoa.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "34ca0438-7526-4e53-aba8-a328bcb8525b",
+    "name": "British Gas (BGAS)",
+    "logo_file_name": "british_gas.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "965ae464-c333-4d72-b68f-2f3390f7a631",
+    "name": "British Gas (ENRD)",
+    "logo_file_name": "british_gas.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "1c1dc7f3-4ba3-4c38-9519-0fc1067ad9f2",
+    "name": "British Gas (ECOA)",
+    "logo_file_name": "british_gas.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "d3674ba7-f174-428c-805d-a025adc4b006",
+    "name": "British Gas (OGAS)",
+    "logo_file_name": "british_gas.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "f3b17836-0a27-4bda-b81c-9953358e7dad",
+    "name": "BNRG",
+    "logo_file_name": "bnrg.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "adaae249-d5a3-4332-afdd-83e55625ce71",
+    "name": "GDF Suez",
+    "logo_file_name": "gdf.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "1380aa14-9053-40b3-bff1-ac66f77cd574",
+    "name": "E.ON Next Energy Ltd",
+    "logo_file_name": "eon.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "59fee6e8-f905-4810-a9a6-11824c9efa8b",
+    "name": "EON Energy Solutions",
+    "logo_file_name": "pgen.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "c4079ccf-4a29-4256-a8e4-f9372e82dbd1",
+    "name": "Ovo Energy",
+    "logo_file_name": "ovoe.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "24cc4936-f999-45d9-a788-fcc2110a0fb1",
+    "name": "Shell Energy",
+    "logo_file_name": "frst.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "b6649118-440f-4696-a28d-eb2f3c81e8a3",
+    "name": "Octopus Energy",
+    "logo_file_name": "mrcy.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "1674a9a0-2162-4fed-941f-7aa42a60ca74",
+    "name": "EDF",
+    "logo_file_name": "edf.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "b65f570d-ae26-40c7-af0d-c7485e5b44fa",
+    "name": "EDF (ZPYR)",
+    "logo_file_name": "zpyr.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "fc2ba691-8477-45d8-964c-1f6db66af891",
+    "name": "EDF Corp",
+    "logo_file_name": "sweb.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "1cad480d-7301-4059-a0c1-b1f0b79ee396",
+    "name": "Scottish And Southern (SOUT)",
+    "logo_file_name": "sout.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "833393e0-be54-46fd-9bc5-d0354b57a30b",
+    "name": "Scottish And Southern (IMPO)",
+    "logo_file_name": "impo.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "a7656d14-abb4-4670-abd0-816b5caae95c",
+    "name": "Bizz Energy",
+    "logo_file_name": "bizz.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "d954da46-babf-4840-97e6-9646ed318c1b",
+    "name": "Red Energy",
+    "logo_file_name": "rwed.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "50c3f6cc-896e-4173-bca5-d1a3a673329e",
+    "name": "DRAX",
+    "logo_file_name": "drax.png",
+    "is_displayed_on_current_supplier_list": true
+  },
+  {
+    "id": "8f81815f-b77e-4eb6-8706-129a23bfb601",
+    "name": "United Gas & Power (SING)",
+    "logo_file_name": "drax.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "ac8221ac-589f-4e24-acd5-b4f851346960",
+    "name": "United Gas & Power\t(UGAP)",
+    "logo_file_name": "drax.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "93a485ad-d6bc-48c6-926e-aa83e849149f",
+    "name": "Eco Green Management (Yorkshire Gas And Power)",
+    "logo_file_name": "egml.png",
+    "is_displayed_on_current_supplier_list": false
+  },
+  {
+    "id": "21d143a3-eff9-40ac-bbfd-52047a81e2e8",
+    "name": "Yu Energy",
+    "logo_file_name": "yu.png",
+    "is_displayed_on_current_supplier_list": false
+  }
+]

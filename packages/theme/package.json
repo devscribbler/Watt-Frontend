@@ -1,0 +1,9 @@
+{
+  "name": "@watt/theme",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.7",
+    "@mui/styles": "^5.11.7"
+  }
+}

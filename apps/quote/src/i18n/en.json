@@ -1,0 +1,394 @@
+{
+  "quoteInfo": {
+    "estimateExplanation": "Your estimates are based on an assumed usage of",
+    "dayTariff": "day",
+    "nightTariff": "night",
+    "weekendTariff": "weekend"
+  },
+  "common": {
+    "buttons": {
+      "save": "Save",
+      "submit": "Submit",
+      "seeQuote": "See quote",
+      "getAQuote": "Get a quote",
+      "sendCode": "Send code",
+      "back": "Back",
+      "continue": "Continue",
+      "signContract": "Sign contract",
+      "seeContracts": "SEE CONTRACTS"
+    },
+    "labels": {
+      "email": "Email",
+      "myAccount": "MY ACCOUNT"
+    }
+  },
+  "electricityInfo": {
+    "withElectralink": {
+      "title": "Your last months of electricity usage"
+    },
+    "energyCard": {
+      "title": "Electricity usage",
+      "subtitle": "MPAN ending with "
+    }
+  },
+  "electricityQuote": {
+    "signMeUpButton": "Sign me up",
+    "title": "Electricity quote",
+    "comparePrices": "Compare with my prices",
+    "hideComparison": "Hide comparison",
+    "filters": {
+      "title": "Filters",
+      "contractLengths": "Contract lengths",
+      "paymentTypes": "Payment types"
+    },
+    "savingsSection": {
+      "title": "Save",
+      "year": "year"
+    },
+    "rates": {
+      "unitRate": "Unit rate",
+      "dayUnitRate": "Day unit rate",
+      "eveningUnitRate": "Evening unit rate",
+      "nightUnitRate": "Night unit rate",
+      "wendUnitRate": "Weekend unit rate",
+      "offPeakUnitRate": "Off peak unit rate",
+      "annualPrice": "Annual Estimate",
+      "standingCharge": "Standing Charge",
+      "priceGuaranteed": "Price Guaranteed",
+      "contractType": "Contract Type",
+      "duration": "Duration",
+      "capacityChargeKva": "Power Demand (kVA)",
+      "contractLength": "Contract Length",
+      "estimatedBill": "Estimated Bill",
+      "planType": "Plan Type"
+    },
+    "pricesComparisonTable": {
+      "header": "Prices *",
+      "estimatedBill": "Estimated bill",
+      "footer": "* The prices are calculated based on your electricity usage of 35.000 kWh/year and contract renewal with your current provider. The new prices include a commission for Watt.co.uk of 1p / unit",
+      "currentSupplierTooltip": "Estimated from your current supplier's current rate",
+      "currentSupplierTitle": "Current Supplier Estimate",
+      "newSupplierTitle": "New Supplier",
+      "newSupplierTooltip": "Generated from ......"
+    },
+    "pdfContractReader": {
+      "title": "Please read your generated contract.",
+      "subtitle": "You can download the contract and read it offline.",
+      "tooltip": "Download your contract"
+    },
+    "showMore": "Show more",
+    "showLess": "Show less"
+  },
+  "errors": {
+    "incorrectMPAN": "Incorrect format (check the infopoint)",
+    "incorrectMPRN": "Incorrect format (6-11 digits)",
+    "differentPassword": "New password should be different from old password.",
+    "passwordsDoNotMatch": "The passwords do not match.",
+    "requiredField": "Required information.",
+    "invalidRegistrationNumber": "Invalid registration number.",
+    "noCompanyFound": "No company found.",
+    "invalidPostcode": "Invalid postcode.",
+    "invalidEmailAddress": "Invalid email address.",
+    "invalidChangeEmailSecurityCode": "Incorrect code (correct example:123456)",
+    "validChangeEmailIntend": "Incorrect format (correct example: name@company.com)",
+    "invalidPhoneNumber": "Invalid phone number.",
+    "noAddressesFound": "No addresses were found.",
+    "phoneNumberMaxLength": "The phone number you have introduced is not valid.",
+    "passwordLength": "Required information (minimum 8 characters).",
+    "existentAccount": "Changes could not be saved because the account already exists.",
+    "missingAcquisitionQueryParameters": "The link is not valid.",
+    "page": {
+      "title": "FURTHER ACTION REQUIRED",
+      "subtitle1": "We need to call you!",
+      "subtext1": "Unfortunately our comparison engine is not generating any quotes for your meter. This could be due to a number of reasons such as Industry type, and unsupported meter or large usage.",
+      "subtitle2": "You may need a more tailored energy quote.",
+      "subtext2": "Our trusted adviser will be in touch to talk you through alternative options as it may just mean we need to obtain a more bespoke price from the suppliers to suit your needs.",
+      "subtext3": "We will find you a competitive quote to suit your business needs and call you right back.",
+      "slogan": "It's 'Watt we do'.",
+      "bottomTitle": "Alternatively, give us a call on",
+      "proceed": "Please proceed to the next utility."
+    }
+  },
+  "login": {
+    "title": "Login",
+    "form": {
+      "emailAddress": "Email address",
+      "password": "Password",
+      "button": "Log in",
+      "forgotPassword": "Forgot password",
+      "noAccount": "Don't have an account? Sign Up"
+    },
+    "notifications": {
+      "error": "An error has occurred."
+    }
+  },
+  "register": {
+    "title": "Register",
+    "notifications": {
+      "generic_error": "An error has occurred."
+    },
+    "form": {
+      "button": "Register",
+      "postcode": {
+        "label": "Postcode",
+        "placeholder": "i.e. PO16"
+      },
+      "address": {
+        "label": "Site address",
+        "placeholder": "Select the address"
+      },
+      "businessName": {
+        "label": "Business name",
+        "placeholder": "Select the business"
+      },
+      "smsCode": {
+        "label": "Code received via phone number",
+        "placeholder": "Add code from SMS"
+      },
+      "phoneNumber": {
+        "label": "Phone number",
+        "placeholder": "i.e. (+44) 123 5678"
+      },
+      "emailAddress": {
+        "label": "Email address",
+        "placeholder": "Email"
+      },
+      "password": {
+        "label": "Password",
+        "placeholder": "Password"
+      },
+      "confirmPassword": {
+        "label": "Confirm password",
+        "placeholder": "Retype password"
+      }
+    }
+  },
+  "accountInfo": {
+    "title": "Account information",
+    "changeEmail": {
+      "title": "Change email",
+      "form": {
+        "securityCode": "Security code received via email",
+        "emailAddress": "Email address"
+      },
+      "buttonLabel": {
+        "sendSecurityCode": "SEND SECURITY CODE FOR CONFIRMATION"
+      }
+    },
+    "changePassword": {
+      "title": "Change password",
+      "form": {
+        "currentPassword": "Current password",
+        "newPassword": "New password",
+        "confirmNewPassword": "Confirm new password"
+      }
+    },
+    "notifications": {
+      "emailSucessSend": "Email send successfully",
+      "emailSuccessChanged": "Email changed successfully",
+      "success": "Changes successfully saved",
+      "error": "Changes could not be saved because reason"
+    }
+  },
+  "companyInformation": {
+    "title": "Company information",
+    "notifications": {
+      "success": "Changes successfully saved",
+      "error": "Changes could not be saved"
+    },
+    "tooltips": {
+      "address_select": "Select an address from below",
+      "insert_postcode": "Insert your postcode above"
+    },
+    "agreementSet": {
+      "title": "Agreements",
+      "authorized": {
+        "label": "I confirm I am authorized to deal with this company's account."
+      },
+      "creditCheck": {
+        "label": "I agree to a credit check being carried out on this company."
+      },
+      "letterOfAuthority": {
+        "label": "I agree with signing the Letter of Authority to allow Watt.co.uk to act on my behalf within the industry and with my current supplier. The LOA is valid for 30 days of signing, unless a contract is signed at which point the LOA length will reflect the length of the contract."
+      },
+      "termsAndConditions": {
+        "label": "I agree with the Terms and Conditions of Watt.co.uk"
+      },
+      "smartMeterAgreement": {
+        "label": "I agree to a Smart Meter installation if not already present. (optional)"
+      },
+      "directDebitAgreement": {
+        "label": "I agree to pay via Direct Debit for this company. (optional)"
+      }
+    },
+    "companyForm": {
+      "title": "Company",
+      "type": {
+        "label": "Business type"
+      },
+      "businessName": {
+        "label": "Business name"
+      },
+      "registrationNumber": {
+        "label": "Business registration number",
+        "confirmed": "Confirmed by Companies House",
+        "adornmentTop": "You can find your Business Registration number by clicking the `Find my business number` link below.",
+        "adornmentBottom": "Your Business Registration number consists of 8 digits."
+      },
+      "businessField": {
+        "label": "Find my business number"
+      },
+      "charityNumber": {
+        "label": "Charity number"
+      },
+      "sitePostcode": {
+        "label": "Postcode for the site address"
+      },
+      "siteAddress": {
+        "label": "Site address"
+      },
+      "soleTrader": {
+        "addressHistory": {
+          "label": "Address"
+        },
+        "postcodeHistory": {
+          "label": "Postcode"
+        },
+        "moveInDateHistory": {
+          "label": "Move in date"
+        },
+        "moveOutDateHistory": {
+          "label": "Move out date"
+        }
+      }
+    },
+    "contactForm": {
+      "title": "Contact",
+      "businessPhoneNumber": {
+        "label": "Business phone number"
+      },
+      "contactEmail": {
+        "label": "Contact email"
+      },
+      "verificationCode": {
+        "label": "Verification code"
+      },
+      "contactForename": {
+        "label": "Contact Forename(s)"
+      },
+      "contactSurname": {
+        "label": "Contact Surname"
+      },
+      "position": {
+        "label": "Position within the company"
+      },
+      "postcode": {
+        "label": "Postcode for the business address",
+        "tooltip": "Changing this address would change the registered office address and the billing address."
+      },
+      "address": {
+        "label": "Business address",
+        "sameAsSite": "Business address is the same as the site address"
+      },
+      "notifications": {
+        "successfulEmailSent": "Email sent! Check your emails for your verification code.",
+        "successfulVerification": "Email successfully verified."
+      }
+    }
+  },
+  "contractForm": {
+    "title": "Contract",
+    "bankName": {
+      "label": "Bank name"
+    },
+    "accountHolderName": {
+      "label": "Account holder name"
+    },
+    "accountNumber": {
+      "label": "Account number"
+    },
+    "sortCode": {
+      "label": "Sort code"
+    },
+    "signature": {
+      "label": "Signature"
+    },
+    "isAuthorized": {
+      "label": "I confirm I am authorized to deal with this company's account."
+    },
+    "termsAndConditions": {
+      "label": "I agree with the Terms and Conditions of Watt.co.uk"
+    }
+  },
+  "forgotPassword": {
+    "title": "Forgot password",
+    "label": "Email address",
+    "buttonText": "Reset password",
+    "resetPasswordFailed": "Sorry, an error occurred. Please check your email address."
+  },
+  "myContracts": {
+    "title": "My contracts",
+    "months": "months",
+    "noContracts": "Client does not have available contracts.",
+    "activeContracts": "My active contracts",
+    "downloadContract": "Download Contract",
+    "expiredQuote": "Quotation is expired",
+    "quoteExpiresIn": "Quotation expires in",
+    "renewalQuote": "Due to renewal in",
+    "comingSoon": "Coming soon",
+    "ongoing": "Ongoing",
+    "expired": "Expired"
+  },
+  "drawerList": {
+    "dashboard": "Dashboard",
+    "myContracts": "My contracts",
+    "companyDetails": "Company details",
+    "paymentsDetails": "Payment details",
+    "accountDetails": "Account details"
+  },
+  "selectSupplierWithNoData": {
+    "yourCurrentSupplier": "Your Current Supplier",
+    "otherSupplierInputLabel": "Other supplier",
+    "otherSupplierInputPlaceholder": "Add supplier name",
+    "weDetectedSupplier": {
+      "electricity": "We detected your supplier from your MPAN.",
+      "gas": "We detected your supplier from your MPRN."
+    }
+  },
+  "ContractAndUsageFormSection": {
+    "title": "Contract and usage",
+    "datepickerLabel": "Start date of new contract",
+    "contractPeriodLabel": "Current contract period",
+    "MPANnumberLabel": "MPAN number",
+    "annualUsageLabel": "Your estimated annual usage (kWh)",
+    "maxDateMessage": "Date can not be in the future",
+    "invalidDateMessage": "Invalid date format, use: DD/MM/YYYY",
+    "outOfContractLabel": "I am out of contract"
+  },
+  "chooseYourSupplierSection": {
+    "title": "Current electricity supplier"
+  },
+  "thankYouScreen": {
+    "title": "Thank you for using Watt",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum. You would be able to download your contracts and request new quotations without adding your company information again. New features coming soon... Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar sic tempor. Sociis natoque penatibus et magnis dis parturient montes."
+  },
+  "premiumSectionPage": {
+    "title": "You have successfully signed your contract",
+    "subtitle": "Would you like to become a premium customer? Check out the advantages you'll get.",
+    "checkBoxLabel": "Sign me up for 1£ / month",
+    "cards": {
+      "firstCard": {
+        "title": "Plant a tree",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo."
+      },
+      "secondCard": {
+        "title": "Know Watt’s going on",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo."
+      },
+      "thirdCard": {
+        "title": "More features coming",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo."
+      }
+    }
+  }
+}

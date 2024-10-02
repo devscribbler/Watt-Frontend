@@ -1,0 +1,10 @@
+{
+  "name": "@watt/components",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@watt/api-interface": "^1.0.0",
+    "@watt/constants": "^1.0.0",
+    "@watt/theme": "^1.0.0"
+  }
+}

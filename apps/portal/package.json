@@ -1,0 +1,42 @@
+{
+  "name": "@watt/portal",
+  "version": "1.0.0",
+  "description": "Customer Portal for watt.co.uk",
+  "private": true,
+  "scripts": {
+    "dev": "yarn run -T next dev -p 3001",
+    "build": "yarn run -T next build && yarn run -T next export",
+    "lhci": "lhci autorun",
+    "start": "yarn run -T next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/lodash.get": "^4.4.7",
+    "@watt/api-interface": "^1.0.0",
+    "@watt/components": "^1.0.0",
+    "@watt/constants": "^1.0.0",
+    "@watt/theme": "^1.0.0",
+    "@watt/utils": "^1.0.0",
+    "clsx": "^1.1.1",
+    "core-js": "^3.31.0",
+    "jwt-decode": "^3.1.2",
+    "lodash.get": "^4.4.2",
+    "nanoid": "^4.0.2",
+    "next-seo": "^5.4.0",
+    "redaxios": "^0.5.1"
+  },
+  "peerDependencies": {
+    "@fontsource/open-sans": "^4.4.5",
+    "@nivo/bar": "^0.79.0",
+    "@nivo/core": "^0.79.0",
+    "@reduxjs/toolkit": "^1.5.1",
+    "next": "^12.1.5",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^7.7.1",
+    "react-redux": "^7.2.4",
+    "react-use": "^17.2.4"
+  }
+}

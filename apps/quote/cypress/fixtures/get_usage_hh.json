@@ -1,0 +1,72 @@
+{
+  "contract": {
+    "post_code": "AL1 1AG",
+    "total_annual_usage": "20000+",
+    "start_date": "2022-06-24",
+    "supplier_name": "BNRG",
+    "provider_id": "d5041f3a-6464-471d-946d-72162623bec4",
+    "mpan": "01801003**********647"
+  },
+  "usage": [
+    {
+      "year_month": "2021-08",
+      "monthly_usage": 6700.0
+    },
+    {
+      "year_month": "2021-09",
+      "monthly_usage": 7800.0
+    },
+    {
+      "year_month": "2021-10",
+      "monthly_usage": 7500.0
+    },
+    {
+      "year_month": "2021-11",
+      "monthly_usage": 8000.0
+    },
+    {
+      "year_month": "2021-12",
+      "monthly_usage": 7500.0
+    },
+    {
+      "year_month": "2022-01",
+      "monthly_usage": 7400.0
+    },
+    {
+      "year_month": "2022-02",
+      "monthly_usage": 7300.0
+    },
+    {
+      "year_month": "2022-03",
+      "monthly_usage": 8000.0
+    },
+    {
+      "year_month": "2022-04",
+      "monthly_usage": 7800.0
+    },
+    {
+      "year_month": "2022-05",
+      "monthly_usage": 8500.0
+    },
+    {
+      "year_month": "2022-06",
+      "monthly_usage": 9000.0
+    },
+    {
+      "year_month": "2022-07",
+      "monthly_usage": 9900.0
+    },
+    {
+      "year_month": "2022-08",
+      "monthly_usage": 11900.0
+    },
+    {
+      "year_month": "2022-09",
+      "monthly_usage": 10900.0
+    },
+    {
+      "year_month": "2022-10",
+      "monthly_usage": 300.0
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+// use styles mui
+import { makeStyles } from '@mui/styles'
+import { PRIMARY_COLORS } from '@watt/theme'
+
+export const useConfirmationStyles = makeStyles(() => ({
+  root: {
+    background: PRIMARY_COLORS.light,
+    padding: 30,
+    borderRadius: '10px',
+  },
+  bottomCardRoot: {
+    display: 'flex',
+    width: '100%',
+    height: '100%',
+    justifyContent: 'center',
+    alignItems: 'center',
+    flexDirection: 'row',
+    padding: '1em',
+  },
+  bottomCardFlex: {
+    display: 'flex',
+    flex: 1,
+    width: '100%',
+    height: '100%',
+    justifyContent: 'center',
+    alignItems: 'center',
+    flexDirection: 'column',
+    background: '#073D55',
+    padding: '1.75em',
+    borderRadius: '10px',
+  },
+  getInTouchCTA: {
+    background: 'white',
+    color: 'black',
+    padding: '0.5em',
+    border: '1px solid #073D55',
+  },
+  bottomCardEmpty: {
+    display: 'flex',
+    flex: 1,
+  },
+  cardsRoot: {
+    display: 'flex',
+    width: '100%',
+    height: '100%',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  cardGridLeft: {
+    display: 'flex',
+    width: '100%',
+    height: '100%',
+    justifyContent: 'center',
+    alignItems: 'center',
+    textAlign: 'center',
+    background: 'darkred',
+    color: 'white',
+    borderRadius: '10px',
+    padding: 10,
+  },
+  iconLeft: {
+    color: 'red',
+    background: 'white',
+    border: '3px solid black',
+    boxShadow: '0px 0px 5px 5px',
+  },
+  cardGridMid: {
+    display: 'flex',
+    width: '100%',
+    height: '100%',
+    justifyContent: 'center',
+    alignItems: 'center',
+    textAlign: 'center',
+    background: PRIMARY_COLORS.light,
+    color: 'black',
+    borderRadius: '10px',
+    padding: 10,
+  },
+  iconMid: {
+    color: 'black',
+    background: 'white',
+    border: '3px solid black',
+    boxShadow: '0px 0px 5px 5px',
+  },
+  cardGridRight: {
+    display: 'flex',
+    width: '100%',
+    height: '100%',
+    justifyContent: 'center',
+    alignItems: 'center',
+    textAlign: 'center',
+    background: '#C4DBFF',
+    color: 'black',
+    borderRadius: '10px',
+    padding: 10,
+  },
+  textWhite: {
+    color: 'white',
+  },
+  textBlack: {
+    color: 'black',
+  },
+}))

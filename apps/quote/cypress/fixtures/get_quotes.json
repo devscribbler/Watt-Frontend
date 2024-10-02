@@ -1,0 +1,67 @@
+[
+  {
+    "created_at": "2023-04-15T13:13:02.107207",
+    "updated_at": null,
+    "id": "bfd02e7f-6167-4c5b-8094-9b0a2a7d611c",
+    "quotes": [
+      {
+        "id": "b83a4726-ba5d-444b-af69-8b44fe326f5e",
+        "utility_type": 1,
+        "provider_id": "81563bc5-56ca-4682-9ece-45e6467a9437",
+        "annual_price": 16640.0,
+        "day_unit_rate": 82.47,
+        "evening_unit_rate": null,
+        "night_unit_rate": 0.0,
+        "weekend_unit_rate": 0.0,
+        "off_peak_unit_rate": null,
+        "standing_charge": 40.0,
+        "capacity_charge_kva": "0",
+        "price_guaranteed": 1.0,
+        "contract_type": "Default",
+        "duration": 1,
+        "end_date": "2023-12-31T00:00:00",
+        "is_comparison_provider": false
+      },
+      {
+        "id": "58ec084c-9e51-457e-8ee0-0cfc4883b3ad",
+        "utility_type": 1,
+        "provider_id": "f8ce9976-007e-4d91-a0fb-12aadbdcc951",
+        "annual_price": 16640.0,
+        "day_unit_rate": 82.47,
+        "evening_unit_rate": null,
+        "night_unit_rate": 0.0,
+        "weekend_unit_rate": 0.0,
+        "off_peak_unit_rate": null,
+        "standing_charge": 40.0,
+        "capacity_charge_kva": "0",
+        "price_guaranteed": 1.0,
+        "contract_type": "Default",
+        "duration": 1,
+        "end_date": "2023-12-31T00:00:00",
+        "is_comparison_provider": false
+      },
+      {
+        "id": "91251fbb-55d5-4382-9126-f7d1afd284e8",
+        "utility_type": 1,
+        "provider_id": "3a03a9a5-2fa1-464a-a0ce-7d313deba737",
+        "annual_price": 15598.0,
+        "day_unit_rate": 53.0,
+        "evening_unit_rate": 97.0,
+        "night_unit_rate": 58.0,
+        "weekend_unit_rate": 79.0,
+        "off_peak_unit_rate": 92.0,
+        "standing_charge": 74.0,
+        "capacity_charge_kva": "67",
+        "price_guaranteed": 0.0,
+        "contract_type": "",
+        "duration": 1,
+        "end_date": "2024-04-15T13:13:02.136557",
+        "is_comparison_provider": true
+      }
+    ],
+    "utility_type": 1,
+    "electricity_total_annual_usage": 95454.0,
+    "electricity_tariff_usage_splits": { "day": 1.0, "night": 0.0, "weekend": 0.0 },
+    "electricity_tariff_usage_values": { "day": 95454.0, "night": 0.0, "weekend": 0.0 }
+  }
+]

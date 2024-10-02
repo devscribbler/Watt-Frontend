@@ -1,0 +1,13 @@
+{
+  "name": "@watt/storybook",
+  "version": "1.0.0",
+  "description": "Storybook for watt.co.uk",
+  "private": true,
+  "scripts": {
+    "storybook": "yarn run -T start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

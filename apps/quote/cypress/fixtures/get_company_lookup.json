@@ -1,0 +1,14 @@
+{
+  "company_type": "ltd",
+  "company_status": "active",
+  "date_of_creation": "2022-01-02",
+  "company_name": "Fake Company Ltd",
+  "registered_office_address": {
+    "postal_code": "AL1 1AG",
+    "address_line_1": "1 Fake Street",
+    "locality": "Fakeville",
+    "country": "England",
+    "region": "Oxfordshire"
+  },
+  "sic_descriptions": [{ "sic_code": "62012", "sic_description": "Business and domestic software development" }]
+}

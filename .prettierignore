@@ -1,0 +1,24 @@
+**/node_modules/**
+
+# cache-dirs
+**/.cache
+
+# coverage
+coverage
+
+# Yarn
+.yarn/**
+yarn.lock
+
+# NPM
+package-lock.json
+
+.next/
+apps/quote/out/
+apps/portal/out/
+
+*.md
+
+.storybook
+storybook-static
+newrelic.js
